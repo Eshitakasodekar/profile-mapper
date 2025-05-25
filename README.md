@@ -20,7 +20,7 @@ A responsive web application built with React that allows users to view and mana
 
 ## 🚀 Live Demo
 
-🌐 [Click here to view live](https://your-username.github.io/profile-mapper)
+🌐 [Click here to view live](https://Eshitakasodekar.github.io/profile-mapper)
 
 (Replace this link after deployment to GitHub Pages or Netlify)
 
@@ -36,5 +36,5 @@ A responsive web application built with React that allows users to view and mana
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/profile-mapper.git
+   git clone https://github.com/Eshitakasodekar/profile-mapper.git
    cd profile-mapper
