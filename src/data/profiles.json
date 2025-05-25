@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "photo": "https://randomuser.me/api/portraits/women/1.jpg",
+    "description": "Frontend Developer in New York.",
+    "address": "Times Square, New York, NY",
+    "skills": ["React", "JavaScript", "UI/UX"]
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "photo": "https://randomuser.me/api/portraits/men/2.jpg",
+    "description": "UX Designer from San Francisco.",
+    "address": "Golden Gate Bridge, San Francisco, CA",
+    "skills": ["Figma", "UX Research", "Wireframing"]
+  }
+]
